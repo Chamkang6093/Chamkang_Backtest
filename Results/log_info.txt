@@ -1,1 +1,1938 @@
-
+Warning: Existing initial stocks!
+Warning: Existing initial indices!
+Complete - Parameters Definition !
+ Benchmark chosen is an index.
+Complete - Parameters Check !
+Complete - Initialization !
+20190102 update complete!
+20190103 update complete!
+20190104 update complete!
+20190107 update complete!
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Transaction-'20190108' buy '261000' '600519.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+Transaction-'20190108' buy '1260000' '600436.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190108 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190109 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190110 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190111 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600436.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+20190114 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190115 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190116 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190117 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190118 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190121 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190122 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190123 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190124 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Transaction-'20190125' buy '1279300' '600436.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190125 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190128 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190129 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190130 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190131 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190201 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190211 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190212 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190213 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190214 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190215 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190218 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190219 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190220 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190221 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190222 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190225 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190226 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190227 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190228 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190301 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190304 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190305 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190306 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190307 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190308 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190311 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190312 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190313 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190314 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190315 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190318 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190319 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190320 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190321 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190322 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190325 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190326 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190327 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190328 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190329 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190401 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190402 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190403 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190404 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190408 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190409 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190410 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190411 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190412 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190415 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190416 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190417 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190418 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190419 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190422 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190423 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190424 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190425 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190426 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190429 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600031.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+20190430 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190506 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190507 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190508 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190509 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600436.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+Transaction-'20190510' buy '2171700' '600276.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190510 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190513 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190514 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190515 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190516 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190517 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600276.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+20190520 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190521 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190522 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190523 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600519.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+Transaction-'20190524' buy '2153800' '603288.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190524 update complete!
+20190527 update complete!
+20190528 update complete!
+20190529 update complete!
+20190530 update complete!
+20190531 update complete!
+20190603 update complete!
+20190604 update complete!
+20190605 update complete!
+20190606 update complete!
+20190610 update complete!
+20190611 update complete!
+20190612 update complete!
+20190613 update complete!
+20190614 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Transaction-'20190617' buy '10977300' '600031.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190617 update complete!
+20190618 update complete!
+20190619 update complete!
+20190620 update complete!
+20190621 update complete!
+20190624 update complete!
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190625 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190626 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190627 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190628 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190701 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190702 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190703 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190704 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190705 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190708 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190709 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190710 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190711 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190712 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190715 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190716 update complete!
+'20190717' '600031.XSHG' has got dividends with the factor of (2.600000 per 10.000000).
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190717 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190718 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 603288.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+Transaction-'20190719' buy '223700' '600519.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190719 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190722 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190723 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190724 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190725 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190726 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190729 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190730 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190731 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190801 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190802 update complete!
+20190805 update complete!
+Generate Selling Signal - 600519.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+20190806 update complete!
+20190807 update complete!
+20190808 update complete!
+20190809 update complete!
+20190812 update complete!
+20190813 update complete!
+20190814 update complete!
+20190815 update complete!
+20190816 update complete!
+20190819 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Transaction-'20190820' buy '198200' '600519.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20190820 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190821 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190822 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190823 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190826 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190827 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190828 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190829 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600031.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+20190830 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190902 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190903 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190904 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190905 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190906 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190909 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190910 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190911 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190912 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190916 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190917 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190918 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190919 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190920 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190923 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190924 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190925 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190926 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190927 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20190930 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191008 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191009 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191010 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191011 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191014 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191015 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191016 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191017 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191018 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191021 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191022 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191023 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191024 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191025 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191028 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191029 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191030 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191031 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191101 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191104 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191105 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191106 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191107 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191108 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191111 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191112 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191113 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191114 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191115 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191118 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191119 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191120 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191121 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191122 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191125 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191126 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191127 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191128 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191129 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191202 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal - 600519.XSHG with current positions
+ In consecutive 3 days, short-period MA Lines have been below long-period MA Lines.
+20191203 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191204 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191205 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191206 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191209 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191210 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191211 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191212 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191213 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191216 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191217 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191218 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191219 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191220 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191223 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191224 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191225 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191226 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191227 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191230 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20191231 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200102 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200103 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200106 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200107 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200108 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200109 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200110 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200113 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200114 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200115 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200116 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200117 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200120 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200121 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200122 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200123 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200203 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200204 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200205 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200206 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200207 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200210 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200211 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200212 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200213 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200214 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200217 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200218 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200219 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200220 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200221 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200224 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200225 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200226 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200227 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200228 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200302 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600436.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200303 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200304 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600031.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+20200305 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600276.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200306 update complete!
+Generate Buying Signal 1 - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200309 update complete!
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200310 update complete!
+Generate Buying Signal 1 - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 603288.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Generate Buying Signal 1 - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal 2 - 600519.XSHG without current positions
+ In consecutive 2 days, this underlying has been generating revenues.
+Transaction-'20200311' buy '195000' '600519.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20200311 update complete!
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200312 update complete!
+Generate Buying Signal 1 - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Selling Signal 2 - 600519.XSHG with current positions
+ In consecutive 2 days, this underlying has been suffering from losses.
+20200313 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200316 update complete!
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200317 update complete!
+20200318 update complete!
+20200319 update complete!
+20200320 update complete!
+20200323 update complete!
+20200324 update complete!
+20200325 update complete!
+20200326 update complete!
+20200327 update complete!
+20200330 update complete!
+20200331 update complete!
+Generate Buying Signal - 603288.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Transaction-'20200401' buy '1724900' '603288.XSHG' failed!
+ Not enough money for this transaction!
+However, open position operation will be made!
+20200401 update complete!
+20200402 update complete!
+20200403 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200407 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200408 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200409 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200410 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200413 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200414 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200415 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200416 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200417 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200420 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200421 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200422 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200423 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200424 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200427 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200428 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200429 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200430 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200506 update complete!
+'20200507' '603288.XSHG' has split with the factor of '1.200000'.
+'20200507' '603288.XSHG' has got dividends with the factor of (10.800000 per 10.000000).
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200507 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200508 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200511 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200512 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200513 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200514 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200515 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200518 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200519 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200520 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200521 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200522 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600031.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200525 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200526 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200527 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200528 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200529 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200601 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200602 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200603 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200604 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200605 update complete!
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200608 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200609 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200610 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200611 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200612 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200615 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200616 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200617 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200618 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200619 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200622 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200623 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200624 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200629 update complete!
+Generate Buying Signal - 600276.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600436.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+Generate Buying Signal - 600519.XSHG without current positions
+ In consecutive 5 days, short-period MA Lines have been over long-period MA Lines.
+20200630 update complete!
+20200630 is the last day, update end!
+Complete - Backtest !
