@@ -4,8 +4,8 @@
 * Established whole structure of a low-frequency backtest system for simulating executing algorithmic trading strategies, when dividends, splitting, rights exiting and transaction slippage, fees are considered.
 
 ## Instructions
-1. Before running the code, a directory at the designated path ("address" in the code) should be created.
-2. Then, import backtest-related data to this directory, which can be directly downloaded to local environment via rqalpha Lib at initialization stage (at August 2020), including:
+1.  Before running the code, a directory at the designated path ("address" in the code) should be created.
+2.  Then, import backtest-related data to this directory, which can be directly downloaded to local environment via rqalpha Lib at initialization stage (at August 2020), including:
     * stock daily prices data
     * stock dividends data
     * stock split factor data
@@ -13,16 +13,16 @@
     * stock supendend days data
     * trading dates data
     * indices daily prices data
-3. Finally, creating another directory at the designated path ("address_output" in the code) to store backtest results.
-4. The functionalities of each files are as follows:
+3.  Finally, creating another directory at the designated path ("address_output" in the code) to store backtest results.
+4.  The functionalities of each files are as follows:
     * main.py - Overall structure of this backtest system.
     * environment.py - Class stores global variables.
     * update.py - Functions update environment prior to or after each days.
     * compute.py - Calculation of results and plotting curves.
     * user.py - Functions that connecting the environment and the users. Mainly includes the buying and selling functions.
     * strategy.py - Write own code to simulate strategies.
-5. Write your own strategy in strategy.py in accordance with the format. You can also modify user.py if neccessary.
-6. Run main.py to execute your strategy.
+5.  Write your own strategy in strategy.py in accordance with the format. You can also modify user.py if neccessary.
+6.  Run main.py to execute your strategy.
 
 ## Notes
 * Generally, this backtest system does not support short-selling, please avoid using to prevent from error.
