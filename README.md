@@ -24,7 +24,7 @@
 3.  The functionalities of each file are as follows:
     * main.py - Overall structure of this backtest system.
     * environment.py - The class storing global variables.
-    * update.py - The functions updating environment prior to or after each days.
+    * update.py - The functions updating environment prior to or after each day.
     * compute.py - The function calculating results and plotting curves.
     * user.py - The functions connecting the environment and the users, which are mainly the buying and selling functions.
     * strategy.py - The functions with own code to simulate strategies.
