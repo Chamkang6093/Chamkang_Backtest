@@ -4,7 +4,7 @@
 * Established whole structure of a low-frequency backtest system for simulating executing algorithmic trading strategies, when dividends, splitting, rights exiting and transaction slippage, fees are considered.
 * Tested the functionality of this system by using a simple sector rotation strategy.
 
-## Instructions
+## Instruction
 1.  Before running the code, a directory at the designated path ("address" in the code) should be created.
 2.  Import backtest-related data to this directory, which can be directly downloaded to local environment via rqalpha Lib at initialization stage (at August 2020), including:
     * stocks.h5 - stock daily prices data
