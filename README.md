@@ -21,7 +21,7 @@
 ## Notes
 1.  Generally, this backtest system does not support short-selling, please avoid using to prevent from error.
 2.  This backtest system does not support futures and options, please avoid using to prevent from error.
-3.  The functionalities of each files are as follows:
+3.  The functionalities of each file are as follows:
     * main.py - Overall structure of this backtest system.
     * environment.py - The class storing global variables.
     * update.py - The functions updating environment prior to or after each days.
