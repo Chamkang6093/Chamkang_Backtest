@@ -16,11 +16,11 @@
 3.  Finally, creating another directory at the designated path ("address_output" in the code) to store backtest results.
 4.  The functionalities of each files are as follows:
     * main.py - Overall structure of this backtest system.
-    * environment.py - Class stores global variables.
-    * update.py - Functions update environment prior to or after each day.
-    * compute.py - Calculation of results and plotting curves.
-    * user.py - Functions that connecting the environment and the users. Mainly includes the buying and selling functions.
-    * strategy.py - Write own code to simulate strategies.
+    * environment.py - The class storing global variables.
+    * update.py - The functions updating environment prior to or after each days.
+    * compute.py - The function calculating results and plotting curves.
+    * user.py - The functions connecting the environment and the users, which are mainly the buying and selling functions.
+    * strategy.py - The functions with own code to simulate strategies.
 5.  Write your own strategy in strategy.py in accordance with the format. You can also modify user.py if neccessary.
 6.  Run main.py to execute your strategy.
 
