@@ -2,6 +2,7 @@
 
 ## Description
 * Established whole structure of a low-frequency backtest system for simulating executing algorithmic trading strategies, when dividends, splitting, rights exiting and transaction slippage, fees are considered.
+* Tested the functionality of this system by using a simple sector rotation strategy.
 
 ## Instructions
 1.  Before running the code, a directory at the designated path ("address" in the code) should be created.
@@ -67,4 +68,4 @@
     * context.ex_cum_factor
 
 ## Main Reference
-* <a style='color: black;' href='https://github.com/ricequant/rqalpha' target='_blank'>https://github.com/ricequant/rqalpha</a>
+* <a href='https://github.com/ricequant/rqalpha' target='_blank'>https://github.com/ricequant/rqalpha</a>
